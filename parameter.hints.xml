@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="kotlin.collections.mapOf(pairs)" />
+        <added pattern="com.nhaarman.mockito_kotlin.times(numInvocations)" />
       </blacklist>
     </blacklists>
   </component>

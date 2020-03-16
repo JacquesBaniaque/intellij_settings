@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="/usr/lib/jvm/java-13-openjdk" />
+    <option name="visualVmExecutable" value="$USER_HOME$/Projects/VisualVM/visualvm_20/bin/visualvm" />
+  </component>
+</application>

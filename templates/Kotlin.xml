@@ -1,0 +1,3 @@
+<templateSet group="Kotlin">
+  <template name="logk" value="private val logger = mu.KotlinLogging.logger {}" description="kotlin-logging logger" toReformat="true" toShortenFQNames="true" />
+</templateSet>

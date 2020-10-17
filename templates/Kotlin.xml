@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="logk" value="private val logger = mu.KotlinLogging.logger {}" description="kotlin-logging logger" toReformat="true" toShortenFQNames="true">
+  <template name="klog" value="private val logger = mu.KotlinLogging.logger {}" description="kotlin-logging logger" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
